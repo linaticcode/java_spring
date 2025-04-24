@@ -16,5 +16,7 @@ public class Except {
            System.out.println(num);
            bf.close();
 
+           System.out.println("nice");
+
     }
 }
