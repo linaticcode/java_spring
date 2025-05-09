@@ -4,7 +4,7 @@ import java.io.IOException;
 class Counter
 {
     int count =0 ;
-    public void increment()
+     public void increment()
     {
         count++;
     }
